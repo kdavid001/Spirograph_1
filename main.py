@@ -14,9 +14,6 @@ def random_color():
     return color
 
 
-########### Challenge 5 - Spirograph ########
-
-
 tim.speed("fastest")
 tony.speed("fastest")
 
